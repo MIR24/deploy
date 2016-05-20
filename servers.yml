@@ -1,0 +1,6 @@
+# app/config/servers.yml
+dev:
+    local:         true
+    stage:         dev
+    deploy_path:   "/var/www"
+    branch:        master

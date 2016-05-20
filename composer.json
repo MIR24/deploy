@@ -1,0 +1,20 @@
+{
+    "name": "root/deploy",
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "url": "https://github.com/simple-helpers/php-github-webhook.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "deployer/deployer": "^3.0",
+        "simple-helpers/php-github-webhook":"*"
+    },
+    "authors": [
+        {
+            "name": "barantaran",
+            "email": "yourchev@gmail.com"
+        }
+    ]
+}
