@@ -7,6 +7,6 @@ Depend on [simple-helpers/php-github-webhook](https://github.com/simple-helpers/
 
 To install contest application use:
 ```
-$ git clone https://github.com/bt-contest/contest-deploy.git
+$ git clone git@github.com:MIR24/deploy.git
 $ ./install.sh
 ```
