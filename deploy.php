@@ -46,8 +46,6 @@ task(
     'deploy:prepare',
     'deploy:release',
     'deploy:update_code',
-    //'deploy:shared',
-    //'deploy:vendors',
     'deploy:symlink',
     'cleanup',
     'build_source',
