@@ -1,5 +1,4 @@
 # Contest deployer configuration
-[![Build Status](https://travis-ci.org/bt-contest/contest-deploy.svg?branch=master)](https://travis-ci.org/bt-contest/contest-deploy)
 
 Used to deploy [MIR24 web app](https://github.com/MIR24) with [deployerphp](http://deployer.org/).
 
