@@ -10,3 +10,8 @@ To install contest application use:
 $ git clone git@github.com:MIR24/deploy.git
 $ ./install.sh
 ```
+
+##Install using docker container:
+```
+$ ./install-with-docker.sh
+```
