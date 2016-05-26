@@ -12,5 +12,6 @@ $ ./install.sh
 
 ###Install using docker container:
 ```
+$ git clone git@github.com:MIR24/deploy.git
 $ ./install-with-docker.sh
 ```
