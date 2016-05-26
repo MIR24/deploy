@@ -5,13 +5,13 @@ Used to deploy [MIR24 web app](https://github.com/MIR24) with [deployerphp](http
 
 Depends on [simple-helpers/php-github-webhook](https://github.com/simple-helpers/php-github-webhook.git) catching github webhooks.
 
-To install contest application use:
+###To install contest deployer use:
 ```
 $ git clone git@github.com:MIR24/deploy.git
 $ ./install.sh
 ```
 
-##Install using docker container:
+###Install using docker container:
 ```
 $ ./install-with-docker.sh
 ```
